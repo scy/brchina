@@ -7,5 +7,5 @@ cat <<EOF
 </head>
 <body>
 <h1>Bundesrepublik China</h1>
-<h2>$2</h2>
+<h2>$1</h2>
 EOF
