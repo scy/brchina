@@ -6,4 +6,6 @@ cat <<EOF
 	<title>$1&nbsp;&ndash; Bundesrepublik China</title>
 </head>
 <body>
+<h1>Bundesrepublik China</h1>
+<h2>$2</h2>
 EOF

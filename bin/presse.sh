@@ -1,6 +1,5 @@
 #!/bin/sh
 
-echo '<h2>Pressespiegel</h2>'
 echo '<ul>'
 sed -r -e 's#^([0-9]{8})\t#\1-0000\t#' < "$SRCDIR/presse.txt" |
 	sort -nr |
