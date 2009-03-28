@@ -2,6 +2,7 @@
 
 export BINDIR='bin/'
 export SRCDIR='web/src/'
+export CPYDIR='web/copy/'
 export DSTDIR='web/htdocs/'
 export SH='h3'
 
@@ -14,6 +15,8 @@ wrap() {
 }
 
 mkdir -p "$DSTDIR"
+
+cp -R "$CPYDIR/"* "$DSTDIR"
 
 wrap 'Pressespiegel' presse
 wrap 'Herunterladen/Mirrorn' mirror
