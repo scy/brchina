@@ -1,1 +1,1 @@
-presse.txt: Pressespiegel
+presse.txt: Pressespiegel, Format: YYYYMMDD-HHMM\tTITEL\tURL
