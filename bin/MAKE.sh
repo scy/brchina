@@ -3,6 +3,7 @@
 export BINDIR='bin/'
 export SRCDIR='web/src/'
 export DSTDIR='web/htdocs/'
+export SH='h3'
 
 wrap() {
 	(
@@ -14,4 +15,5 @@ wrap() {
 
 mkdir -p "$DSTDIR"
 
-wrap Pressespiegel presse
+wrap 'Pressespiegel' presse
+wrap 'Herunterladen/Mirrorn' mirror
