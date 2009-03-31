@@ -1,3 +1,4 @@
-QSC	*	?	http://www.qsc.de/
+QSC	*	n?	http://www.qsc.de/
 20090326-1004	Private Anfrage, Bitte um Stellungnahme.
-20090326-1151	Antwort: Anfrage wurde an Rechts- und Presseabteilung weitergegeben.
+20090326-1151	Reaktion: Anfrage wurde an Rechts- und Presseabteilung weitergegeben.
+20090331-1025	Antwort: Link auf http://www.qsc.de/fileadmin/downloads/pr/statements/statement.webperren.pdf
